@@ -9,5 +9,6 @@ These libraries, by other authors, are needed for at least one of the triggers t
     Therefore I'm using a slightly edited version of Chopinski's system, with the initialization segment replaced.
 * [Lua Damage Engine 2.0](https://www.hiveworkshop.com/threads/damage-engine-5-a-0-0.201016/) by Bribe of Hiveworkshop.com
 
-###
+### Other
 
+I have several stub libraries [here](https://github.com/Woodenplank/Lua-LibStubs) for general use. Without them, most triggers here won't function.
